@@ -1,4 +1,4 @@
 # KubeAnomaly
-A system for finding anomalies in metrics of the control plane component
+Система для поиска аномалий в метриках control plane компонент
 
-## [All documentation](https://github.com/vladaderina/KubeAnomalyDocs)
+### [Полная документация]([https://github.com/vladaderina/KubeAnomalyDocs](https://vladaderina.github.io/KubeAnomalyDocs/))
